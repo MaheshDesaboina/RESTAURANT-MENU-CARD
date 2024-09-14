@@ -1,0 +1,128 @@
+/* General Styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Menu Page Styles */
+.menu-item {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.menu-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+.menu-item-image {
+    border-radius: 10px;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.add-to-items {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+.add-to-items:hover {
+    background-color: #218838;
+    transform: scale(1.05);
+}
+
+/* Cart Form Styles */
+#orderForm {
+    margin-top: 30px;
+    text-align: center;
+}
+
+#placeOrderButton {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+#placeOrderButton:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+}
+
+/* Order Successful Page Styles */
+.order-successful-container {
+    text-align: center;
+    padding: 30px;
+}
+
+.order-successful-container h2 {
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.order-successful-container p {
+    font-size: 20px;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+.order-successful-container img {
+    margin-top: 20px;
+    max-width: 250px;
+}
+
+/* Price Highlight */
+.price-highlight {
+    color: #e74c3c; /* Red color to highlight the price */
+    font-weight: bold;
+    font-size: 1.3em;
+}
+/* Existing styles... */
+
+/* Cart Item Styles */
+.cart-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.remove-item {
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.remove-item:hover {
+    background-color: #c82333;
+}

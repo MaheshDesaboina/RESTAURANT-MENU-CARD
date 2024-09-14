@@ -1,0 +1,18 @@
+{
+  "name": "qr-code-menu",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "firebase-admin": "^12.5.0",
+    "password-hash": "^1.2.2",
+    "qr-image": "^3.2.0",
+    "qrcode": "^1.5.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}

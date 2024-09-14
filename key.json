@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "cricket-stats-5d286",
+    "private_key_id": "2d0ff7c154a45c248ca346ed5ecc5010d00cd0bb",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQClDxUQEoPVbBG+\nwtMOEK6L5aQeb3+wof1zkkF8GlOPKumDnOm0Ttq0eaFDSn+EQUsUelkHxFFC0xO+\nD6os0WELpuklJ7JkNiImcd77BKF1JXQQ9v/qP/EyE9sH1hf3QgAXJ4wyWk2Kv36W\nc0xwrRX2ny9fhD7ymEcIgr6sj3pSs5bG01ybzcW68cWpe5BZl2BZ2Z/SuBYbGv/G\nJVvVN54xXf9UPY0JChPuXdw9GhnrNfUUDn9fjczGka4WJ5RjwsVzpdb+LHmVnSPS\nAsrf0SEN/P9Zv9CGiQHxucKRSN+JVH9fC70kUHfIuFhCZVizolotBNziQa9+da/8\nf+1bV5XJAgMBAAECggEAE3ndHWFh5uvyiBTK/IzhW6aEIAc+BOSIWHu4eGFO3MTO\nevYn6VuomMUFT0BaHYvqxQbOvIjgocbwPGvyw4kNL2fJeNXfSc3NZ8Xl7q6UMpNx\nx5KtjcFvv13yaVFM0KMcCZ9j/okDP0zrLet66Iyz277awyWCm/N15j4vK4NehqVz\nouV14imEKhtJ3RXXRtFvBO5fazZ4E/JQk9KAjdGjUR/vQWABBv062HCqW09gQcZc\noQ3p/xPdYvXp5xUpPyptGVPSWkWbQVWxdJeeEAadlgUA8Yc36BZBeirjSEVyeyp3\nnUpV89T6N0cLJTydaOMdVwKEor0qTmAvotlCpH3oUQKBgQDXtfcIBj6DatVos7Yp\n1Cy/T7dsnkpfz/d0S53CeyYjhHbxI996hcsh1ImCqrP3OrdpkpJlwvI4HzR2jgoV\nnzQekp8jRPJOmVGW7lm0VJT9DcFJaJwO3iaDeAr06BFCOX6OotsktXYH9qsfoMUO\nLfsbeiRq0h6wBdFVs2xtJoMuXQKBgQDD4z0rYZJcLinOADV7Sgk08Km4RFsQfZPi\nrB4/MlYI71XxtV/QRSHziQuCZBgWqtiTqz7BSciv8B5jbctzTX1lPX2gFtliiZaj\nn3ZIk8DnblqIVsQrFjAwZmdZIGdcJCOUHZ5+3tlxK1wpjzHU8zaMZEpcGyJVl5yj\ni57SrcbWXQKBgBPMSKr837nyETo13E9EgQLiDySx9oOKs9yBoC4cXWi/HKePMlCt\nfPJS7ngGsNPNGM5gvH0IgnCyNH95E+XeIct4i5CSIGckXT+sCqGpba84Fvhk2IXo\nz8IbP24w6nyYiEwRGGnrGbUrZ5NUjyF5COYBtNv1AwoGzqq9+AKgmUOlAoGBAI7E\nju+QNJD0oElgw5nw8tbf1ILVZx2UuPULBxx+PlBSx2vcClIMINuTdYz6EMhsil7N\n/3X2pcr9Edjby91ki9D+yRGltZhouR7V+OqarYy/VEJsIptYl5Se/hHqWQrB2CB6\nmerT1tzxgkFT+TjAbnBSJBQPPq3tSx+zgfUA7JuNAoGBAJiJVktg/N4OSuU08pBQ\n8GmBs1fY6Yx31YINkRlx5ECOKvvlYsDYbudAQJXkc3rcyZebW7teWSkotQgMPm0z\nY8Yl12AElAod58Ou+cXAK0TRLPV0L8bRSA2xS9fhKrwN8W/EfOipp/NCR66BM2zV\nMf3jz0CIxWx7PL00HR0QRBLA\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-yb0eh@cricket-stats-5d286.iam.gserviceaccount.com",
+    "client_id": "105228578195591549941",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-yb0eh%40cricket-stats-5d286.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
